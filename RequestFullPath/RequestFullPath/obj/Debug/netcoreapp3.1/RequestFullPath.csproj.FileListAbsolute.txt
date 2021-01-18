@@ -1,0 +1,13 @@
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\bin\Debug\netcoreapp3.1\RequestFullPath.exe
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\bin\Debug\netcoreapp3.1\RequestFullPath.deps.json
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\bin\Debug\netcoreapp3.1\RequestFullPath.runtimeconfig.json
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\bin\Debug\netcoreapp3.1\RequestFullPath.runtimeconfig.dev.json
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\bin\Debug\netcoreapp3.1\RequestFullPath.dll
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\bin\Debug\netcoreapp3.1\RequestFullPath.pdb
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.csprojAssemblyReference.cache
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.AssemblyInfoInputs.cache
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.AssemblyInfo.cs
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.csproj.CoreCompileInputs.cache
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.dll
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.pdb
+C:\Git\Code\C#\RequestFullPath\RequestFullPath\obj\Debug\netcoreapp3.1\RequestFullPath.genruntimeconfig.cache
